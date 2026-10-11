@@ -1,0 +1,11 @@
+# 本地运行产物
+state/
+output/
+outputs/
+build/
+exports/
+__pycache__/
+*.pyc
+*.log
+.env
+.DS_Store
